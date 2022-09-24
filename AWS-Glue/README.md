@@ -8,14 +8,21 @@ AWS Glue is fully managed ETL (Extract, Transform and load) service provided by 
 
 ## AWS Glue Studio Screenshots
 
-- Source data schema
+- Source data schema: Here we used AWS glue data catalog as source data, "mlb_id" field is of type string.
+
 ![Logo](https://github.com/Kajal-ghadage2000/AWS-Training/blob/main/AWS-Glue/source%20data%20schema.png)
 
-- Transform data 
+
+- Transform data : Change "mlb_id" field data type as "smallint".
+
 ![Logo](https://github.com/Kajal-ghadage2000/AWS-Training/blob/main/AWS-Glue/transform%20data.png)
 
-- Target data schema
+
+- Target data schema : Data transformation is successful and now "mlb_id" is of type smallint.
+
 ![Logo](https://github.com/Kajal-ghadage2000/AWS-Training/blob/main/AWS-Glue/target%20data%20schema.png)
+
+
 
 ## Reference 
 - [AWS Glue](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/600/610-glue-data-validation-etl)
