@@ -1,5 +1,5 @@
 
-### AWS DMS (Database Migration Service)
+# AWS DMS (Database Migration Service)
 AWS DMS is used to migrate data from an existing Amazon Relational Database Service (Amazon RDS) Postgres database to an Amazon Simple Storage Service (Amazon S3) bucket that we will create.
 
 ![Logo](https://static.us-east-1.prod.workshops.aws/public/2e62dc4a-2508-425d-ab74-0e32e82672e2/static/400/images/30.png)
