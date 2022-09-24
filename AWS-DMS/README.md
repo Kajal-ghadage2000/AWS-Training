@@ -11,5 +11,5 @@ AWS DMS is used to migrate data from an existing Amazon Relational Database Serv
 - Create the Target Endpoint
 - Create a task to perform the initial full copy
 
-## DMS Migration Lab
-- [DMS migratiion lab](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/400/401/430-main-lab)
+## Reference 
+- [DMS Migration Lab](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/400/401/430-main-lab)
