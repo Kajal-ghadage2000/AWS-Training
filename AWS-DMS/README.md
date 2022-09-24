@@ -1,7 +1,7 @@
 
 ### AWS DMS (Database Migration Service)
 
-##Steps
+## Steps
 #### 1. Create the Subnet Group
 #### 2. Create the Replication Instance
 #### 3. Create the DMS Source Endpoint
